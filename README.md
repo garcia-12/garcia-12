@@ -25,7 +25,7 @@ These projects help me learn, grow, and create meaningful solutions. Feel free t
 
 💡 Technical Skills
 Languages and Frameworks:
-C/C++ (with GUI Qt)
+C/C++ (with GUI Qt),
 Python, Django
 HTML, CSS, Tailwind CSS
 JavaScript, React JS
